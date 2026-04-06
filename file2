@@ -1,4 +1,5 @@
 Probando el comando diff
 Este archivo es creado para actualizar pruebas de git
 name = "Denisse"
-print("Hola practica de:" + name)
+lastName = "Ledezma"
+print("Hola practica de:" + name + lastName)
